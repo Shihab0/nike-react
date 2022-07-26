@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+.font-style{
+    font-family: 'Roboto', sans-serif;
+}
+.custom-text-orange{
+    color: #FA804C;
+}
+.custom-text-navy{
+    color: #363958;
+}
+.custom-bg-btn{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+.custom-h1-size{
+    font-size: 4rem;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.app-section img{
+    width: 100px;
+}
